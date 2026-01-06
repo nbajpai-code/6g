@@ -194,6 +194,18 @@
 ---
 
 ## Academic Research
+### 🆕 Latest arXiv Research (2026-01-05)
+- **[Cyberscurity Threats and Defense Mechanisms in IoT network](http://arxiv.org/abs/2601.00556v1)** (2026-01-02)
+  > *The rapid proliferation of Internet of Things (IoT) technologies, projected to exceed 30 billion interconnected devices by 2030, has significantly escalated the complexity of cybersecurity challenges....*
+- **[Multi-Satellite NOMA-Irregular Repetition Slotted ALOHA for IoT Networks](http://arxiv.org/abs/2601.00341v1)** (2026-01-01)
+  > *As the transition from 5G to 6G unfolds, a substantial increase in Internet of Things (IoT) devices is expected, enabling seamless and pervasive connectivity across various applications. Accommodating...*
+- **[Offline Multi-Agent Reinforcement Learning for 6G Communications: Fundamentals, Applications and Future Directions](http://arxiv.org/abs/2601.00321v1)** (2026-01-01)
+  > *The next-generation wireless technologies, including beyond 5G and 6G networks, are paving the way for transformative applications such as vehicle platooning, smart cities, and remote surgery. These i...*
+- **[Evolution of UE in Massive MIMO Systems for 6G: From Passive to Active](http://arxiv.org/abs/2601.00251v1)** (2026-01-01)
+  > *As wireless networks continue to evolve, stringent latency and reliability requirements and highly dynamic channels expose fundamental limitations of gNB-centric massive multiple-input multiple-output...*
+- **[CTMap: LLM-Enabled Connectivity-Aware Path Planning in Millimeter-Wave Digital Twin Networks](http://arxiv.org/abs/2601.00110v1)** (2025-12-31)
+  > *In this paper, we present \textit{CTMAP}, a large language model (LLM) empowered digital twin framework for connectivity-aware route navigation in millimeter-wave (mmWave) wireless networks. Conventio...*
+
 
 ### Comprehensive Survey Papers
 
