@@ -194,6 +194,18 @@
 ---
 
 ## Academic Research
+### 🆕 Latest arXiv Research (2026-02-01)
+- **[SymbXRL: Symbolic Explainable Deep Reinforcement Learning for Mobile Networks](http://arxiv.org/abs/2601.22024v1)** (2026-01-29)
+  > *The operation of future 6th-generation (6G) mobile networks will increasingly rely on the ability of deep reinforcement learning (DRL) to optimize network decisions in real-time. DRL yields demonstrat...*
+- **[User Acceptance Model for Smart Incentives in Sustainable Video Streaming towards 6G](http://arxiv.org/abs/2601.21903v1)** (2026-01-29)
+  > *The rapid growth of 5G video streaming is intensifying energy consumption across access, core, and data-center networks, underscoring the critical need for energy and carbon-efficient solutions. While...*
+- **[CORE:Toward Ubiquitous 6G Intelligence Through Collaborative Orchestration of Large Language Model Agents Over Hierarchical Edge](http://arxiv.org/abs/2601.21822v1)** (2026-01-29)
+  > *Rapid advancements in sixth-generation (6G) networks and large language models (LLMs) have paved the way for ubiquitous intelligence, wherein seamless connectivity and distributed artificial intellige...*
+- **[Frequency as Aperture: Enabling Embeddable Near-Field Sensing for 6G Wireless Radios](http://arxiv.org/abs/2601.21584v1)** (2026-01-29)
+  > *Integrated sensing and communication (ISAC) is expected to be natively supported by future 6G wireless radios, yet most mmWave sensing solutions still rely on dedicated radar hardware incompatible wit...*
+- **[Near-Field Positioning for XL-MIMO Uniform Circular Arrays: An Attention-Enhanced Deep Learning Approach](http://arxiv.org/abs/2601.21550v1)** (2026-01-29)
+  > *In the evolving landscape of sixth-generation (6G) mobile communication, multiple-input multiple-output (MIMO) systems are incorporating an unprecedented number of antenna elements, advancing towards ...*
+
 ### 🆕 Latest arXiv Research (2026-01-05)
 - **[Cyberscurity Threats and Defense Mechanisms in IoT network](http://arxiv.org/abs/2601.00556v1)** (2026-01-02)
   > *The rapid proliferation of Internet of Things (IoT) technologies, projected to exceed 30 billion interconnected devices by 2030, has significantly escalated the complexity of cybersecurity challenges....*
